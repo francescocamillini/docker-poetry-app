@@ -1,0 +1,13 @@
+.venv
+.dockerignore
+.gitignore
+
+.idea
+.vscode
+
+__pycache__/
+.pytest_cache/
+
+docker/
+
+README.md
